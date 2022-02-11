@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "- Run npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtreyn/unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurtreyn/unit-testing/issues"
+  },
+  "homepage": "https://github.com/kurtreyn/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
